@@ -1,0 +1,46 @@
+
+.mybluetitle 
+{ 
+		font-family: verdana;
+		color:#00bfff;
+}
+
+.product {max-width: 100%}
+
+.cat123:hover 
+{
+	width: 150%
+}
+
+.intro {margin-top: 60px}
+
+a:link {
+	color: green;
+}
+a:visited:hover	{
+	color: blue;
+}
+
+a:visited {
+	color: orange;
+}
+.avenger
+	{
+		display: block;
+	}
+.firstparagraph
+{color:orange;}
+h2 {
+	color: red; 
+	font-family: arial
+}
+
+
+
+ul {
+	color: grey;
+}
+
+ol {
+	color: yellow;
+}
