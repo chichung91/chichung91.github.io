@@ -1,0 +1,29 @@
+body {
+	background: url("../imgs/background.png") center fixed no-repeat;
+	background-size: cover;
+}
+
+.title {
+color: white;
+margin-top: 40px;
+font-size: 90pt;
+}
+
+a:link {
+	color: green;
+}
+a:visited:hover	{
+	color: blue;
+}
+
+a:visited {
+	color: orange;
+}
+
+.carousel {
+	height: 500px;
+}
+
+.carousel img, .carousel-item, .carousel-inner {
+max-height: 100%;
+}
